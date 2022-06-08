@@ -1,0 +1,30 @@
+h1,
+.quote,
+.home{
+    text-align: center;
+}
+
+h2{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+h1{
+    color: cornflowerblue;
+    background-color: darkmagenta;
+}
+
+.options{
+    background-color: darkgray;
+    color: indigo;
+}
+
+#image{
+    align-items: center;
+}
+
+.home{
+    background-color: grey;
+    color: black;
+    font-size: 30px;
+}
